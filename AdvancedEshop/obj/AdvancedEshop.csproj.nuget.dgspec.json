@@ -1,0 +1,95 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\FPT University Sources\\Term_5\\PRN211\\Hands-on-outside\\ASP-Project\\AdvancedEshop\\AdvancedEshop\\AdvancedEshop.csproj": {}
+  },
+  "projects": {
+    "D:\\FPT University Sources\\Term_5\\PRN211\\Hands-on-outside\\ASP-Project\\AdvancedEshop\\AdvancedEshop\\AdvancedEshop.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FPT University Sources\\Term_5\\PRN211\\Hands-on-outside\\ASP-Project\\AdvancedEshop\\AdvancedEshop\\AdvancedEshop.csproj",
+        "projectName": "AdvancedEshop",
+        "projectPath": "D:\\FPT University Sources\\Term_5\\PRN211\\Hands-on-outside\\ASP-Project\\AdvancedEshop\\AdvancedEshop\\AdvancedEshop.csproj",
+        "packagesPath": "C:\\Users\\uinic\\.nuget\\packages\\",
+        "outputPath": "D:\\FPT University Sources\\Term_5\\PRN211\\Hands-on-outside\\ASP-Project\\AdvancedEshop\\AdvancedEshop\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\uinic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.24, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.24, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.24, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.24, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.23, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[6.0.24, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.320\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
